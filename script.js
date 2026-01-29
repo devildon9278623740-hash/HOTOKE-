@@ -7,7 +7,7 @@ canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
 // These are the flowers that will appear
-const flowerTypes = ['🌸', '🌹', '🌻', '🌷', '🌼', '🌺', '🍃'];
+const flowerTypes = ['🌸', '🌹', '💮', '🌷', '🪷', '🌺', '💐', '🤍'];
 
 // Music Toggle
 playBtn.addEventListener('click', () => {
